@@ -7,8 +7,8 @@
 * **Github** : <https://github.com/DongminL>
 ------------------------------------------------------
 
+<h2 align="center">📌 Tech Stack 📌</h2>
 <div align="center" class="stack" id="languages">
-    <h2>📌 Tech Stack 📌</h2>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
+<br><br>
 
 <div align="center" class="stack" id="languages">
 
