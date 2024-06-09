@@ -49,9 +49,8 @@
 <br><br>
 
 <div align="center" class="stack" id="languages">
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkskfk5677)](https://solved.ac/milkskfk5677) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongminL&layout=compact&theme=dark)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongminL&layout=compact&theme=dark)
 </div>
 
 ------------------------------------------------------
