@@ -1,16 +1,3 @@
-<div align="center">
-
-  <h2>👦 인적 사항 </h2>
-
-  이름 : **이동민** <br>
-  전공 : **콘텐츠 IT** <br>
-  복수 전공 : **빅데이터** <br>
-  Email : **milkskfk12@gmail.com** <br>
-  
-</div>
-
-------------------------------------------------------
-
 <h2 align="center">📌 Tech Stacks 📌</h2>
 <div align="center" class="stack" id="languages">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -86,6 +73,9 @@
 <div align="center">
   <h2>📚 2021 ~ 2024 전공 수강 이력</h2>
 
+  <details>
+    <summary>자세한 사항을 확인해주세요</summary>
+
 | 학년 | 학기 |           과목명            | 성적 |
 | :--: | :--: | :-------------------------: | :--: |
 |  1   |  1   |         이산구조론          |  A0  |
@@ -108,4 +98,5 @@
 |  4   |  1   |         정보보호론          |      |
 |  4   |  1   |  소프트웨어 캡스톤 디자인   |      |
 
+  </details>
 </div>
