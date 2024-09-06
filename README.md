@@ -1,44 +1,65 @@
-<h2 align="center">📌 Tech Stacks 📌</h2>
-<div align="center" class="stack" id="languages">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-</div>
-<div align="center" class="stack" id="database">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
-</div>
-<div align="center" class="stack" id="etc">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
-</div>
-<div align="center" class="stack" id="tool">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-</div>
-<br><br>
+<div align="left">
 
-<div align="center" class="stack" id="languages">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongminL&layout=compact&theme=dark)
-</div>
+### 🙋🏻‍♂ About Me
+#### 안녕하세요! 
+#### 백엔드 개발자 이동민입니다.
+
+[![Notion Badge](https://img.shields.io/badge/Notion-Resume-white?style=flat-square&logo=Notion)](https://dong-min.notion.site/df800a34837144d9a13d42133a06cd98)
+[![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=Notion)](https://dong-min.notion.site/Portfolio-abd8a7749e8d44b1bd2e4138f883858a)
+[![Velog Badge](https://img.shields.io/badge/Velog-My%20Blog-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@milkskfk5677)
+
+---
+
+### 📌 Tech Stacks 📌
+#### Languages
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+
+#### Back-end
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
+
+#### Front-end
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+
+#### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+
+#### DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+#### tool
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 ------------------------------------------------------
 
-<div align="center">
+### 💻 Projects 💻
 
-  <h2>🔥 주요 활동 🔥</h2>
-  <h3>💻 프로젝트 💻</h3>
+#### DDPM과 OCSR을 이용한 분자정보 검색 앱
+##### 🔗 https://github.com/DongminL/Molecular_Search
 
-  DDPM과 OCSR을 이용한 분자정보 검색 앱 <br>
-  웹 크롤링을 이용한 영화관 예매 오픈 알리미  <br>
-  영화 평점 사이트 <br>
-  
- 
-  <br>
+#### 웹 크롤링을 이용한 영화관 예매 오픈 알리미
+##### 🔗 https://github.com/DongminL/movie_reservation_notification
 
-  <h3>🎓 성적 🎓</h3>
+#### 영화 평점 사이트
+##### 🔗 https://github.com/swWebProject/tag-project-2022
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongminL&layout=compact&theme=dark)
+
+------------------------------------------------------
+
+### 🎓 성적 🎓
+
+<details>
+    <summary>자세한 성적을 확인해주세요</summary>
 
 | 학년 | 학기 | 취득 학점 | 평균 학점 |
 | :--: | :--: | :-------: | :-------: |
@@ -51,16 +72,12 @@
 |  4   |  1   |    16     |   4.31    |
 | 전체 |      |    130    |   4.34    |
 
- 
-</div>
+</details>
 
-------------------------------------------------------
+### 📚 전공 수강 이력
 
-<div align="center">
-  <h2>📚 2021 ~ 2024 전공 수강 이력</h2>
-
-  <details>
-    <summary>자세한 사항을 확인해주세요</summary>
+<details>
+    <summary>자세한 이력을 확인해주세요</summary>
 
 | 학년 | 학기 |           과목명            | 성적 |
 | :--: | :--: | :-------------------------: | :--: |
@@ -84,5 +101,5 @@
 |  4   |  1   |         정보보호론          |  A+  |
 |  4   |  1   |  소프트웨어 캡스톤 디자인   |  A0  |
 
-  </details>
+</details>
 </div>
