@@ -11,6 +11,7 @@
 ---
 
 ### 📌 Tech Stacks 📌
+
 #### Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -27,6 +28,7 @@
 #### DevOps
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
 
@@ -46,19 +48,19 @@
 ### 💻 Projects 💻
 
 #### 보행자 신호등 안내 서비스
-##### 🔗 https://github.com/prgrms-be-devcourse/NBE2-3-2-team8
+##### 🔗 https://github.com/prgrms-web-devcourse-final-project/WEB2_3_SIGNAL-BUDDY_BE
 
-#### AI(DDPM, OCSR)를 이용한 분자정보 검색 앱
+#### AI(OCSR)를 이용한 분자정보 검색 앱
 ##### 🔗 https://github.com/DongminL/Molecular_Search
 
 #### 웹 크롤링을 이용한 영화관 예매 오픈 알리미
 ##### 🔗 https://github.com/DongminL/movie_reservation_notification
 
-#### 커피 쇼핑몰
-##### 🔗 https://github.com/prgrms-be-devcourse/NBE2-3-1-team7
-
 #### 영화 평점 사이트
 ##### 🔗 https://github.com/swWebProject/tag-project-2022
+
+#### 커피 쇼핑몰
+##### 🔗 https://github.com/prgrms-be-devcourse/NBE2-3-1-team7
 
 <br/>
 
